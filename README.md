@@ -17,4 +17,4 @@ Pode pedir estatíscas, agrupar, fazer gráficos, o que você quiser
 
 3. LLMs são ruins com números, mas como usamos o LLM apenas para gerar a query e os cálculos são feitos pelo Pandas, temos cálculos confiáveis.
 
-4. Podemos pedir para plotar gráficos, escolhendo variéveis e tipos de gráficoi usando apenas linguagem natural.
+4. Podemos pedir para plotar gráficos, escolhendo variéveis e tipos de gráfico usando apenas linguagem natural. 😁
